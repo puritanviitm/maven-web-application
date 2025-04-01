@@ -17,7 +17,7 @@ stages{
  stage('CheckOuteCode'){
  steps{
     sendSlackNotifications("STARTED")
- git branch: 'development', credentialsId: 'f4d44680-6f7c-4889-b836-5ce7015057f8', url: 'https://github.com/MithunTechnologiesDevOps/maven-web-application.git'
+ git branch: 'development', credentialsId: 'f4d44680-6f7c-4889-b836-5ce7015057f8', url: 'https://github.com/puritanviitm/maven-web-application.git'
  }
  }
  //Build

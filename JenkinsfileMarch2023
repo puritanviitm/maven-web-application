@@ -12,7 +12,7 @@ echo "Jenkins Home path is: ${JENKINS_HOME}"
 
 
 stage('CheckoutCode'){
-git branch: 'development', credentialsId: 'aaa8e2c0-226a-40ba-85eb-259762d67c15', url: 'https://github.com/MithunTechnologiesDevOps/maven-web-application.git'
+git branch: 'development', credentialsId: 'aaa8e2c0-226a-40ba-85eb-259762d67c15', url: 'https://github.com/puritanviitm/maven-web-application.git'
 }
 
 stage('Build')

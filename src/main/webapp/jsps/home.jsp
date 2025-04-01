@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<title>Paperlive- Home Page</title>
+<link href="https://paperlive.in/static/media/paperlive-new-logo.e507bfd60cf257e2a268.webp" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies. Ph No: +91-9980923226,+91-9014996877</h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps & Cloud, Python, Java & Node JS </h1>
+<h1 align="center">Welcome to Paperlive</h1>
+<h1 align="center"> Paperlive- Very Good Training center for DevOps & Cloud, Python, Java & Node JS </h1>
 
 <h2> Trainer Name: Bhaskar  Reddy Lacchannagari</h2>
 <hr>
@@ -33,24 +33,22 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="https://paperlive.in/static/media/paperlive-new-logo.e507bfd60cf257e2a268.webp" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli
+		Paperlive, 
 		Bangalore,
-		+91-9980923226,+91-9014996877
-		devopstrainingblr@gmail.com
+		tanvipuri45@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:tanvipuri45@gmail.com">Mail to paperlive</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2025 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
+<p align=center>Paperlive</p>
+<p align=center><small>Copyrights 2025 by <a href="https://paperlive.in/">paperlive,Bengaluru</a> </small></p>
 
 </body>
 </html>

@@ -4,7 +4,7 @@ agent any
 
 parameters {
   choice choices: ['master', 'development', 'stage', 'uat'], description: 'Select the Branch Name', name: 'BranchName'
-  string defaultValue: 'Mithun Software Solutions', name: 'PersonName'
+  string defaultValue: 'paperlive ', name: 'PersonName'
 }
 
 
@@ -27,7 +27,7 @@ stages{
   stage('CheckoutCode'){
   steps{
       sendSlackNotifications('STARTED')
-  git branch: "${params.BranchName}", credentialsId: 'aaa8e2c0-226a-40ba-85eb-259762d67c15', url: 'https://github.com/MithunTechnologiesDevOps/maven-web-application.git'
+  git branch: "${params.BranchName}", credentialsId: 'aaa8e2c0-226a-40ba-85eb-259762d67c15', url: 'https://github.com/puritanviitm/maven-web-application.git'
   }
   }
 

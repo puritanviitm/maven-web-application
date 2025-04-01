@@ -11,7 +11,7 @@ echo "Build number is: ${env.BUILD_NUMBER}"
 def mavenHome=tool name: 'maven3.9.3'
 
 stage('CheckOutCode'){
-git branch: 'development', credentialsId: 'c4900e7a-ccd3-4a5a-8604-b81f52bdc0f2', url: 'https://github.com/MithunTechnologiesDevOps/maven-web-application.git'
+git branch: 'development', credentialsId: 'c4900e7a-ccd3-4a5a-8604-b81f52bdc0f2', url: 'https://github.com/puritanviitm/maven-web-application.git'
 }
 
 stage('Build'){
