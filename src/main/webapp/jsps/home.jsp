@@ -12,7 +12,7 @@
 <h1 align="center">Welcome to Paperlive</h1>
 <h1 align="center"> Paperlive- Very Good Training center for DevOps & Cloud, Python, Java & Node JS </h1>
 
-<h2> Trainer Name: Bhaskar  Reddy Lacchannagari</h2>
+<h2> Trainer Name: Tanvi Puri</h2>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
