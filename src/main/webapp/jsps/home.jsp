@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Paperlive</h1>
-<h1 align="center"> Paperlive- Very Good Training center for DevOps & Cloud, Python, Java and NodeJS </h1>
+<h1 align="center"> Paperlive- Very Good Training center for DevOps & Cloud, Python, Java  </h1>
 
 <h2> Trainer Name: Tanvi Puri</h2>
 <hr>
